@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Nurudeen Momodu
 
-<!--
-**nurudeenmomodu-blip/nurudeenmomodu-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cloud Support Engineer | AWS Certified | BCS Certified
 
-Here are some ideas to get you started:
+I am a results-oriented Cloud Support Engineer with 3 years of experience in troubleshooting, monitoring, and maintaining cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Work With
+
+- **Cloud**: AWS (EC2, VPC, IAM, S3, Lambda, API Gateway, DynamoDB, CloudFront)
+- **Infrastructure as Code**: Terraform
+- **Containers**: Docker, Kubernetes (learning)
+- **Scripting**: Python, Bash
+- **CI/CD**: GitHub Actions
+- **OS**: Linux
+
+## Featured Project
+
+- [Cloud Resume Challenge](https://github.com/nurudeenmomodu-blip/cloud-resume) - Serverless resume website on AWS
+
+### Currently Learning
+
+- Kubernetes / EKS
+- Advanced Terraform
